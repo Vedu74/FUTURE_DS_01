@@ -1,0 +1,10 @@
+I am excited to share my first Data Science & Analytics project, where I analyzed business sales data to uncover revenue trends, top-selling products, high-value categories, and regional performance.
+
+Tools used: Python, Pandas, Matplotlib
+
+Key outcomes:
+- Identified seasonal revenue growth in Q4
+- Highlighted the top-performing product, category, and region
+- Built a client-ready analysis structure with actionable recommendations
+
+This project helped me strengthen my data cleaning, analysis, and business storytelling skills.
